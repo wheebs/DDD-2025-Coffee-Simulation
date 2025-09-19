@@ -2,7 +2,7 @@
 
 G’day! If you’ve landed here, you probably came from my DDD Perth 2025 talk. This repo is a friendly nudge to give SimPy a go — today. SimPy is a small, powerful library for discrete‑event simulation in Python. You can model queues, servers, and variability with just a few lines.
 
-I’d love you to start using SimPy — especially if you haven’t before. This repo gives you two coffee‑shop simulations you can run and tweak live.
+I’d love you to start using SimPy — especially if you haven’t before. This repo gives you two coffee‑shop simulations you can run and tweak, these are the simulations I used during my DDD 2025 talk.
 
 ## Contents
 
@@ -119,5 +119,6 @@ Name: David Whebell
 Email: dmwhebell@gmail.com
 
 Links: https://au.linkedin.com/in/david-whebell
+
 
 If this helped you get started with SimPy, I’d love to hear about it. Cheers!
