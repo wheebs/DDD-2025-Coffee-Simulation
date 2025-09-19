@@ -17,7 +17,7 @@ I’d love you to start using SimPy — especially if you haven’t before. This
 
 **Advanced:** one shared queue, drink mix (simple/standard/slow), optional peak window with a second barista during the rush, weekday presets (Mon–Fri), multiple random seeds to show variability, and comparison plots.
 
-**Guiding star:** SimPy is free, easy, and you can do it today.
+**Remember** SimPy is free, easy, and you can do it today!
 
 ## How to Run
 
@@ -90,7 +90,7 @@ I’d love you to start using SimPy — especially if you haven’t before. This
     - Adjust `WEEKDAY_PRESETS` to change arrival multipliers and drink mix.
     - Change `start_seed` and `num_seeds` for more or fewer replications.
 
-## Pro Tips to Try Live
+## Pro Tips to tweak and play with
 
 - In `coffee_shop_minimal.py`, nudge `ARRIVAL_RATE` and `SERVICE_MEAN` to show congestion tipping points.
 - In `coffee_shop_advanced.py`, toggle `use_peak` or `second_barista_in_peak` to show staffing impact.
@@ -122,3 +122,4 @@ Links: https://au.linkedin.com/in/david-whebell
 
 
 If this helped you get started with SimPy, I’d love to hear about it. Cheers!
+
